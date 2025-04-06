@@ -39,7 +39,7 @@ const PatientList = () => {
                         <th scope="col">First Name</th>
                         <th scope="col">Last Name</th>
                         <th scope="col">Blood Group</th>
-                        <th scope="col">Actions</th>
+                        <th scope="col">Action</th>
                     </tr>
                 </thead>
                 <tbody>
